@@ -16,4 +16,15 @@
     text-align: center;
     font-family: 'Hubballi', cursive;
 }
+.services {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Hubballi', cursive;
+    background-image: url(assets/backgrounds/s_image.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
 
