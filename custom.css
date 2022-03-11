@@ -33,15 +33,24 @@
     font-size: 17px;
     padding-top: 10%;
 }
+#design {
+    display: none;
+}
 .development {
     text-align: center;
     font-family: 'Hubballi', cursive;
     font-size: 17px;
     padding-top: 10%;
 }
+#dev {
+    display: none;
+}
 .product {
     text-align: center;
     font-family: 'Hubballi', cursive;
     font-size: 17px;
     padding-top: 10%;
+}
+#prod {
+    display: none;
 }
