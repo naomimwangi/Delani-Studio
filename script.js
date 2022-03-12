@@ -68,3 +68,13 @@ $("#project8").mouseover(function () {
 }).mouseout(function () {
         $("#hover8").hide();
     });
+
+
+$("#contact").submit(function () {
+    event.preventDefault();
+    let name = $("input#text").val();
+    let email = $("input#email").val();
+    let message = $("textarea#message").val();
+    console. log (contact);
+    alert (name + " " + "we have received your message. Thank you for reaching out to us.");
+});       
