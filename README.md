@@ -1,6 +1,6 @@
 # DELANI STUDIO
 
-#   Project Description
+# Project Description
 <p>This is a project that helps practice the knowledge and skills acquired so far on HTML, CSS, Bootstrap, JavaScript and JQuery </p>
 
 ## Author
@@ -14,11 +14,12 @@
   <li>JAVASCRIPT</li>
   <li>JQUERY</li>
 </ul>
+
 ## Setup Instructions
 Clone this repo to your desktop and run it to install all the dependencies
 
 ### Live site
-[Live Site]()
+[Live Site](https://naomimwangi.github.io/Delani-Studio/)
 
 ### Licence
 [MIT LICENSE](LICENSE.txt)
