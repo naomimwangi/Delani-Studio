@@ -66,3 +66,13 @@
     text-align: center;
     font-family: 'Hubballi', cursive;
 }
+.row {
+    text-align: center;
+}
+#hover1,#hover2,#hover3,#hover4,#hover5,#hover6,#hover7,#hover8{
+  display: none;
+  position: absolute;
+  background-color:rgba(255, 255, 255, .5);
+  text-align: center;
+  font-family: 'Hubballi', cursive;
+}
